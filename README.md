@@ -74,7 +74,7 @@ Editar
 ||------------------------||
 ||1 - Cadastrar           ||
 ||2 - Vizualizar          ||
-||1 - Deletar             ||  <- ⚠️ erro aqui: opção 3 deveria ser "Deletar"
+||3 - Deletar             ||  
 ||------------------------||
 ||Insira  sua resposta: 1
 ||------------------------||
@@ -82,7 +82,7 @@ Editar
 ||-------------------------||
 ||Insira  o email de usuário: joao@email.com
 🔧 Melhorias sugeridas
-✅ Corrigir menu duplicado (duas opções "1")
+
 
 🗑️ Implementar funcionalidade de deletar usuário
 
