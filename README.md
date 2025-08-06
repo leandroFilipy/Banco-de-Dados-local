@@ -2,23 +2,6 @@
 
 Este projeto é um sistema simples de gerenciamento de usuários via terminal, utilizando Java com JDBC para conexão com um banco de dados **MySQL**. A aplicação permite cadastrar e visualizar usuários.
 
----
-
-## 📁 Estrutura do Projeto
-
-src/
-├── org.example/
-│ ├── Main.java # Classe principal que executa o sistema
-│ ├── UsuarioDAO.java # Classe de acesso ao banco de dados
-│ ├── Conexao.java # Classe para conexão com o banco de dados
-├── service/
-│ └── Gerenciamento.java # Lógica de gerenciamento das ações do menu
-└── view/
-└── Interface.java # Interface com o usuário (console)
-
-yaml
-Copiar
-Editar
 
 ---
 
@@ -101,12 +84,6 @@ Interação com o console
 
 Integração com banco de dados MySQL
 
-🧑‍🏫 Autor
-Desenvolvido por Sigma Boy 🚀
-
-css
-Copiar
-Editar
 
 
 
